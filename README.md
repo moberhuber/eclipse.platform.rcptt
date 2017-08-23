@@ -2,6 +2,10 @@
 RCPTT Tests for Eclipse Platform and SDK (JDT, PDE) functionality.
 For full RCPTT docs see https://www.eclipse.org/rcptt/
 
+See also the RCPTT Platform tests:
+* https://github.com/eclipse-testing/eclipse-platform
+* https://hudson.eclipse.org/rcptt/job/EclipsePlatform/
+
 Run with Maven
 ==============
 1. Symlink or copy your Eclipse install to test into (gitroot)/aut/eclipse
